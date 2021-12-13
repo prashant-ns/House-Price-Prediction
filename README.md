@@ -10,3 +10,4 @@ In order to optimize the model obtained last week, we have performed the followi
 5.	Applied “Decision Tree” algorithm on the initial dataset and compared the model obtained from the algorithm with the optimized models.
 ![image](https://user-images.githubusercontent.com/73497924/145768707-276c7d0a-ad34-43ac-9ed8-36a5131ef8c7.png)
 
+![image](https://user-images.githubusercontent.com/73497924/145768802-42e84a35-da72-48d4-9d3a-3b17768adeb9.png)
